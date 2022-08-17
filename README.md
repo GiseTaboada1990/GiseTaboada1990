@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/97916932/185249966-bad9edcf-5d6e-48f4-9fbe-e73b2bf0a648.png)
+![image](https://www.shutterstock.com/es/video/clip-1085395847-into-metaverse-digital-technology-hitech-concept)
 
 Hi there! My name is Gise 👋
 About Me
