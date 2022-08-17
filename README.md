@@ -1,16 +1,18 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/97916932/185249966-bad9edcf-5d6e-48f4-9fbe-e73b2bf0a648.png)
 
-<!--
-**GiseTaboada1990/GiseTaboada1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! My name is Gise 👋
+About Me
+I am recently graduated from bootcamp SoyHenry.com 🚀 (+800hs intensive bootcamp) 🎓
+⚙️ My tech skills:
+--> JavaScript
+--> HTML/CSS
+--> React
+--> Redux
+--> Express
+--> Node JS
+--> PostgreSQL
+--> Sequelize
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 I am currently learning TypeScript and open to learn any other tools that can help me to grow up as a professional. 🙌
+💬 Conect with me:
+--> Linkedin: https://www.linkedin.com/in/elizabeth-giselle-taboada-fullstackdeveloper
