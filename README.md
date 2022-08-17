@@ -3,7 +3,9 @@
 
 
 Hi there! My name is Gise 👋
+
 About Me
+
 I am recently graduated from bootcamp SoyHenry.com 🚀 (+800hs intensive bootcamp) 🎓
 
 ⚙️ My tech skills:
