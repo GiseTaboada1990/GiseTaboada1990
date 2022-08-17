@@ -1,4 +1,5 @@
-[stock-footage-software-developer-programming-code-looped-abstract-animation-computer-script-big-data-concept.webm](https://user-images.githubusercontent.com/97916932/185256703-a349a2d8-bf50-4dbe-8ab5-581ab18d9273.webm)
+![Full Stack Developer](https://user-images.githubusercontent.com/97916932/185258244-65848e6d-3099-4dd4-a5d5-4d2603b9f866.gif)
+
 
 
 Hi there! My name is Gise 👋
