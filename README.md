@@ -1,4 +1,5 @@
-![My image](https://www.shutterstock.com/es/video/clip-1068969157-software-developer-programming-code-looped-abstract-animation)
+![image](https://user-images.githubusercontent.com/97916932/185254766-dba284a2-eed0-4650-96af-714369865a87.png)
+
 Hi there! My name is Gise 👋
 About Me
 I am recently graduated from bootcamp SoyHenry.com 🚀 (+800hs intensive bootcamp) 🎓
