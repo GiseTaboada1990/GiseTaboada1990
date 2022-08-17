@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/97916932/185254766-dba284a2-eed0-4650-96af-714369865a87.png)
+![image](https://res.cloudinary.com/practicaldev/image/fetch/s--maNcLznd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/5riaredf08hjlg7985m3.gif)
 
 Hi there! My name is Gise 👋
 About Me
