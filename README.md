@@ -17,5 +17,3 @@ I am recently graduated from bootcamp SoyHenry.com 🚀 (+800hs intensive bootca
 💬 Conect with me:
 --> Linkedin: https://www.linkedin.com/in/elizabeth-giselle-taboada-fullstackdeveloper
 
-Languages and Tools:
-javascript html5 css3 bootstrap react reactnative redux sass babel nodejs express git postgresql postman mocha typescript
